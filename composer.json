@@ -1,0 +1,17 @@
+{
+    "name": "user/php_objects",
+    "autoload": {
+        "psr-4": {
+            "User\\PhpObjects\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tona-Mangobyte",
+            "email": "tona@mango-byte.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3"
+    }
+}
